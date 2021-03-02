@@ -34,7 +34,7 @@ public static void main(String[] args) {
           return new PasswordAuthentication(username, password);
        }
     });
-
+//Just trying git
     try {
        // Create a default MimeMessage object.
        Message message = new MimeMessage(session);
